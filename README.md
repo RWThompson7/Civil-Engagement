@@ -1,5 +1,5 @@
-# Civil-Engagement
-Exploration of predicting civil engagement through Facebook friends
+## Civil-Engagement
+Exploration of predicting civil engagement through Facebook friends.
 
 The files in this repository are the research, R code, and final presentation for our Comp STAT & Data Analysis project on Civil Engagement. I worked with my partner Nate to develop an answer to the questions of whether or not the particular types of friendships that we maintain have an effect on our civil engagement in society. Did friendship across higher and lower income classes affect engagement? Did the age at which these friendships were developed? Did their insular nature affect engagement? We worked first by procuring a dataset collected in conjunction with the Humanitarian Data Exchange and Meta of Facebook friend statistics down to the county level in the United States.
 
